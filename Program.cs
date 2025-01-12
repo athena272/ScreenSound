@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Screen Sound
+string welcomeMessage = "Boas vindas ao Screen Sound";
+Console.WriteLine(welcomeMessage);
